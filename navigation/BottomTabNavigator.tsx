@@ -48,8 +48,8 @@ export default function BottomTabNavigator() {
         }}
       />
       <MainTab.Screen name="Chats" component={ChatScreen} />
-      <MainTab.Screen name="Status" component={TabTwoNavigator} />
-      <MainTab.Screen name="Calls" component={TabTwoNavigator} />
+      <MainTab.Screen name="Orders" component={TabTwoNavigator} />
+      <MainTab.Screen name="Files" component={TabTwoNavigator} />
     </MainTab.Navigator>
   );
 }

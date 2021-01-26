@@ -61,7 +61,7 @@ function RootNavigator() {
         name="Root"
         component={BottomTabNavigator}
         options={{
-          title: "Kakebe Chat",
+          title: "Kakebe Team Management",
           headerRight: () => {
             return (
               <View
@@ -90,6 +90,7 @@ function RootNavigator() {
         component={ChatRoomScreen}
         options={({ route }) => ({
           title: route.params.name,
+
           headerRight: () => {
             return (
               <View
