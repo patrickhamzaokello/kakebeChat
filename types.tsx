@@ -20,19 +20,19 @@ export type TabTwoParamList = {
 };
 
 export type User = {
-  id: String;
-  name: String;
-  imageUrl: String;
+  id: string;
+  name: string;
+  imageUri: string;
 };
 
 export type Message = {
-  id: String;
-  content: String;
-  createdAt: number;
+  id: string;
+  content: string;
+  createdAt: string;
 };
 
 export type ChatRoom = {
-  id: String;
-  users: [User];
+  id: string;
+  users: User[];
   lastMessage: Message;
 };
