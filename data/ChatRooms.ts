@@ -4,20 +4,20 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u2",
-        name: "Lukas",
+        name: "Sedu Sedrick",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg",
       },
     ],
     lastMessage: {
       id: "m1",
-      content: "Well donedonedonedone done this sprint, guys!",
+      content: "Well done this sprint, guys!",
       createdAt: "2020-10-03T14:48:00.000Z",
     },
   },
@@ -26,13 +26,13 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u3",
-        name: "Daniil",
+        name: "Rita",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg",
       },
@@ -48,20 +48,20 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u4",
-        name: "Alex",
+        name: "Josh Blask",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.png",
       },
     ],
     lastMessage: {
       id: "m3",
-      content: "Hi, Vadim.",
+      content: "Hi, Patrick Hamza.",
       createdAt: "2020-10-02T14:48:00.000Z",
     },
   },
@@ -70,13 +70,13 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u5",
-        name: "Vlad",
+        name: "Steven KB",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
       },
@@ -92,13 +92,13 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u6",
-        name: "Elon Musk",
+        name: "OJ Maxwell",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/5.jpg",
       },
@@ -114,13 +114,13 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u7",
-        name: "Adrian",
+        name: "Erine YIYA",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/6.png",
       },
@@ -136,13 +136,13 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u8",
-        name: "Borja",
+        name: "Ambrosoli",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/7.png",
       },
@@ -158,7 +158,7 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
@@ -180,13 +180,13 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Vadim",
+        name: "Patrick Hamza",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
       },
       {
         id: "u10",
-        name: "Angelina Jolie",
+        name: "Richard AT",
         imageUri:
           "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/9.png",
       },
