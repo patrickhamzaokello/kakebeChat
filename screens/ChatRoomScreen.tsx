@@ -6,6 +6,7 @@ import { FlatList } from "react-native-gesture-handler";
 
 import chartRoomData from "../data/Chats";
 import ChatMessage from "../components/ChatMessage";
+import InputBox from "../components/InputBox";
 
 import BG from "../assets/images/BG.png";
 // import Emma from "../assets/images/Emma.png";
@@ -19,6 +20,8 @@ const ChatRoomScreen = () => {
         renderItem={({ item }) => <ChatMessage message={item} />}
         inverted
       />
+
+      <InputBox />
     </ImageBackground>
   );
 };
